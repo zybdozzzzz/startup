@@ -17,6 +17,12 @@ public class Blalalah {
         System.out.println(result);
     }
 
+    /**
+     *
+     * @param num1
+     * @param num2
+     * @return
+     */
     public static double sum(double num1, double num2) {
         double result = num1 + num2;
         return result;
